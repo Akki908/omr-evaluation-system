@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+uploads/
+desktop.ini
+results.csv
+analysis_report.csv
+.env
